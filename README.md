@@ -1,2 +1,2 @@
 # Weather-Application
-Application uses Ajax requests to report the desired weather search.
+Weather application uses Ajax requests to report the desired weather search through the consumption of an API.
